@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation - Custom Colors
 
 on:
   schedule:
@@ -14,18 +14,34 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: checkout
         uses: actions/checkout@v3
-      
-      - name: generate
+
+      - name: generate snake - Red Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: abhishek-s156
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#dc2626&color_dot=#dc2626
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff1a1a&color_dot=#ff1a1a
+
+      # --- THIS PART CHANGES WHITE->BLUE AND GREEN->YELLOW ---
+      - name: Change colors - White to Blue & Green to Yellow
+        run: |
+          # For LIGHT mode snake (white bg)
+          sed -i \'s/#ebedf0/#dbeafe/g\' dist/github-contribution-grid-snake.svg
+          sed -i \'s/#9be9a8/#fef9c3/g\' dist/github-contribution-grid-snake.svg
+          sed -i \'s/#40c463/#fde047/g\' dist/github-contribution-grid-snake.svg
+          sed -i \'s/#30a14e/#facc15/g\' dist/github-contribution-grid-snake.svg
+          sed -i \'s/#216e39/#eab308/g\' dist/github-contribution-grid-snake.svg
+
+          # For DARK mode snake (dark bg)
+          sed -i \'s/#161b22/#0f2847/g\' dist/github-contribution-grid-snake-dark.svg
+          sed -i \'s/#0e4429/#fef9c3/g\' dist/github-contribution-grid-snake-dark.svg
+          sed -i \'s/#006d32/#fde047/g\' dist/github-contribution-grid-snake-dark.svg
+          sed -i \'s/#26a641/#facc15/g\' dist/github-contribution-grid-snake-dark.svg
+          sed -i \'s/#39d353/#eab308/g\' dist/github-contribution-grid-snake-dark.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
