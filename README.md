@@ -35,7 +35,8 @@
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfvh6cf3y/giphy.gif" width="250px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-5f94cf76-9342-4c82-a2d2-085ad41d3bd8.gif" width="250px"/>
+
 
 </td>
 </tr>
@@ -69,12 +70,11 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-s156&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-s156&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-s156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=abhishek-s156&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-s156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=abhishek-s156&theme=tokyonight&hide_border=true&background=0D1117" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s156&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
@@ -95,9 +95,8 @@
 
 ### 📈 3D Contribution Graph
 <div align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/abhishek-s156" width="100%" alt="3D Chart Alternative"/>
+  <br>
+  <sub>If above is empty, use this 3D one - refresh after 5 mins</sub>
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=abhishek-s156&theme=tokyonight" width="100%"/>
 </div>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=20" width="100%"/>
