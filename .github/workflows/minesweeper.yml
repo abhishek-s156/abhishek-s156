@@ -1,0 +1,28 @@
+name: Minesweeper Game 💣
+
+on:
+  issues:
+    types: [opened, reopened]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  minesweeper:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+    # Prevent bot loop
+    if: github.actor != \'github-actions[bot]\'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Play Minesweeper
+        uses: barsonax/minesweeper-action@v1
+        with:
+          ISSUE_NUMBER: "1"
+          ISSUE_TITLE: "💣 Minesweeper | Play Here!"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
