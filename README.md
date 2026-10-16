@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I\'m%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=fadeIn&desc=B.Tech%20Student%20|%20AIML%20|%20Web%20Dev%20|%20DSA&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=220&section=header&text=Hi%20👋,%20I\'m%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=fadeIn&desc=B.Tech%20Student%20%7C%20AIML%20%7C%20Web%20Dev%20%7C%20DSA&descAlignY=75&descAlign=50" width="100%"/>
 
 <div align="center">
   
@@ -21,17 +21,25 @@
 
 ### 👨‍💻 About Me
 
-javascript
-const abhishek = {
-role: "B.Tech Student & Passionate Software Engineer",
-learning: ["AIML", "Web Development", "DSA", "MERN Stack"],
-workingOn: "ML-DL Projects & Full Stack Apps",
-askMeAbout: ["Python", "JavaScript", "React", "Machine Learning"],
-funFact: "I turn coffee into code and bugs into features 😅",
-email: "abhishekseth2200@gmail.com"
-};
+<table>
+<tr>
+<td>
 
+- 🔭 Currently working on **ML-DL Projects & Full Stack Apps**
+- 🌱 Learning **AIML, MERN Stack & DSA**
+- 👯 Looking to collaborate on **Open Source AI Projects**
+- 💬 Ask me about **Python, JavaScript, React**
+- 📫 Reach me at **abhishekseth2200@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code and bugs into features 😜**
 
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfvh6cf3y/giphy.gif" width="250px"/>
+
+</td>
+</tr>
+</table>
 
 
 ---
