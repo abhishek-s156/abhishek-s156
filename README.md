@@ -25,7 +25,7 @@ javascript
 const abhishek = {
 role: "B.Tech Student & Passionate Software Engineer",
 learning: ["AIML", "Web Development", "DSA", "MERN Stack"],
-workingOn: "AI Projects & Full Stack Apps",
+workingOn: "ML-DL Projects & Full Stack Apps",
 askMeAbout: ["Python", "JavaScript", "React", "Machine Learning"],
 funFact: "I turn coffee into code and bugs into features 😅",
 email: "abhishekseth2200@gmail.com"
@@ -83,49 +83,13 @@ email: "abhishekseth2200@gmail.com"
   </picture>
 </div>
 
----
 
-### 🎮 Let\'s Play a Game! - Minesweeper & Tic-Tac-Toe
-
-> **How it works:** Just click on the image below and make your move in the ISSUE! It\'s playable directly from GitHub.
-
-<div align="center">
-
-  #### 💣 MINESWEEPER - Click to Play!
-  <a href="https://github.com/abhishek-s156/abhishek-s156/issues/1">
-    <img src="https://img.shields.io/badge/PLAY%20MINESWEEPER-Click%20Here!-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiPjxicj48L3RleHQ+PC9zdmc+&logoColor=white" alt="Minesweeper"/>
-  </a>
-  <br>
-  <sub>Don\'t worry, if you haven\'t set it up yet, check setup below 👇</sub>
-
-  #### ⭕ TIC-TAC-TOE - Click to Play!
-  <a href="https://github.com/abhishek-s156/abhishek-s156/issues/2">
-    <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE-Click%20Here!-2ECC71?style=for-the-badge&logo=gamepad&logoColor=white" alt="Tic Tac Toe"/>
-  </a>
-
-  <br><br>
-  
-  **OR Play Snake Directly Here 👇**
-
-  [![Play Snake](https://img.shields.io/badge/🐍_PLAY_SNAKE_GAME-Play_Now-58A6FF?style=for-the-badge)](https://abhishek-s156.github.io/snake-game/)
-
-</div>
-
----
 
 ### 📈 3D Contribution Graph
 <div align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=abhishek-s156&theme=tokyonight" width="100%"/>
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
-### 😂 Random Meme for You
-<div align="center">
-  <img src="https://rm.up.railway.app/" width="400px"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=20" width="100%"/>
