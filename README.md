@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=220&section=header&text=Hi%20👋,%20I\'m%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=fadeIn&desc=B.Tech%20Student%20%7C%20AIML%20%7C%20Web%20Dev%20%7C%20DSA&descAlignY=75&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,18&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=twinkling&desc=B.Tech%20Student%20%7C%20AIML%20%7C%20Web%20Dev%20%7C%20DSA&descAlignY=75&descAlign=50" width="100%"/>
 
 <div align="center">
   
@@ -71,7 +71,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-s156&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
+
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-s156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=abhishek-s156&theme=tokyonight&hide_border=true&background=0D1117" />
@@ -93,10 +93,3 @@
 
 
 
-### 📈 3D Contribution Graph
-<div align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/abhishek-s156" width="100%" alt="3D Chart Alternative"/>
-  <br>
-  <sub>If above is empty, use this 3D one - refresh after 5 mins</sub>
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=abhishek-s156&theme=tokyonight" width="100%"/>
-</div>
