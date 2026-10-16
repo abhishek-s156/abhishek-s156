@@ -1,13 +1,131 @@
-<h1 align="center">Hi 👋, I'm Abhishek Seth</h1>
-<h3 align="center">B.Tech Student & Passionate Software Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I\'m%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=fadeIn&desc=B.Tech%20Student%20|%20AIML%20|%20Web%20Dev%20|%20DSA&descAlignY=55" width="100%"/>
 
-- 🌱 I’m currently learning **AIML , WEB DEV , DSA**
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;B.Tech+Student+%26+AIML+Enthusiast;MERN+Stack+Developer;Always+learning+new+things!+🚀)](https://git.io/typing-svg)
 
-- 📫 How to reach me **abhishekseth2200@gmail.com**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=abhishek-s156&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+    <img src="https://img.shields.io/github/followers/abhishek-s156?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+    <img src="https://img.shields.io/github/stars/abhishek-s156?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  </p>
 
-<h3 align="left"></h3>
-<p align="left">
+  <p>
+    <a href="mailto:abhishekseth2200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/abhishek-s156"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+javascript
+const abhishek = {
+role: "B.Tech Student & Passionate Software Engineer",
+learning: ["AIML", "Web Development", "DSA", "MERN Stack"],
+workingOn: "AI Projects & Full Stack Apps",
+askMeAbout: ["Python", "JavaScript", "React", "Machine Learning"],
+funFact: "I turn coffee into code and bugs into features 😅",
+email: "abhishekseth2200@gmail.com"
+};
+
+
+
+
+---
+
+### 🛠️ Languages and Tools
+<div align="center">
+
+![AWS](https://img.shields.io/badge/ambient?style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<br>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,cs,css,django,docker,express,figma,firebase,gcp,js,kubernetes,py,mongodb,mysql,nodejs,react,redux,tailwind,ts,html,git,linux&perline=9" />
+  </a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats & Streak
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-s156&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-s156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=abhishek-s156&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s156&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+### 🐍 Watch My Contributions Get Eaten by Snake!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-s156/abhishek-s156/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-s156/abhishek-s156/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-s156/abhishek-s156/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🎮 Let\'s Play a Game! - Minesweeper & Tic-Tac-Toe
+
+> **How it works:** Just click on the image below and make your move in the ISSUE! It\'s playable directly from GitHub.
+
+<div align="center">
+
+  #### 💣 MINESWEEPER - Click to Play!
+  <a href="https://github.com/abhishek-s156/abhishek-s156/issues/1">
+    <img src="https://img.shields.io/badge/PLAY%20MINESWEEPER-Click%20Here!-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiPjxicj48L3RleHQ+PC9zdmc+&logoColor=white" alt="Minesweeper"/>
+  </a>
+  <br>
+  <sub>Don\'t worry, if you haven\'t set it up yet, check setup below 👇</sub>
+
+  #### ⭕ TIC-TAC-TOE - Click to Play!
+  <a href="https://github.com/abhishek-s156/abhishek-s156/issues/2">
+    <img src="https://img.shields.io/badge/PLAY%20TIC--TAC--TOE-Click%20Here!-2ECC71?style=for-the-badge&logo=gamepad&logoColor=white" alt="Tic Tac Toe"/>
+  </a>
+
+  <br><br>
+  
+  **OR Play Snake Directly Here 👇**
+
+  [![Play Snake](https://img.shields.io/badge/🐍_PLAY_SNAKE_GAME-Play_Now-58A6FF?style=for-the-badge)](https://abhishek-s156.github.io/snake-game/)
+
+</div>
+
+---
+
+### 📈 3D Contribution Graph
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=abhishek-s156&theme=tokyonight" width="100%"/>
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+### 😂 Random Meme for You
+<div align="center">
+  <img src="https://rm.up.railway.app/" width="400px"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=20" width="100%"/>
