@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,18&height=220&section=header&text=Hi%20👋,%20I'm%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=twinkling&desc=B.Tech%20Student%20%7C%20AIML%20%7C%20Web%20Dev%20%7C%20DSA&descAlignY=75&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I\'m%20Abhishek%20Seth&fontSize=35&fontColor=fff&animation=fadeIn&desc=B.Tech%20Student%20•%20AIML%20•%20Web%20Dev%20•%20DSA&descAlignY=75&descAlign=50" width="100%"/>
 
 <div align="center">
   
@@ -26,7 +26,7 @@
 <td>
 
 - 🔭 Currently working on **ML-DL Projects & Full Stack Apps**
-- 🌱 Learning **AIML, MERN Stack & DSA**
+- 🌱 Learning **AIML, Web Dev & DSA**
 - 👯 Looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, JavaScript, React**
 - 📫 Reach me at **abhishekseth2200@gmail.com**
@@ -35,7 +35,7 @@
 </td>
 <td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-5f94cf76-9342-4c82-a2d2-085ad41d3bd8.gif" width="250px"/>
+<img src="https://www.google.com/imgres?q=coder%20boy%20coding&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20250121%2Fpngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16938203.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fboy-with-coding-skills&docid=BLWZaLa7rxiFfM&tbnid=AlGo3gIxdSHcnM&vet=12ahUKEwj3qYOE2b6XAxUKkOEIHZw-DBAQnPAOegUIlQQQAA..i&w=437&h=260&hcb=2&ved=2ahUKEwj3qYOE2b6XAxUKkOEIHZw-DBAQnPAOegUIlQQQAA" width="250px"/>
 
 
 </td>
